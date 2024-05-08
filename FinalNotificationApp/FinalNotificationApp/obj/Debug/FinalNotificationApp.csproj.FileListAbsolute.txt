@@ -1,0 +1,12 @@
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.csproj.AssemblyReference.cache
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.Form1.resources
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.Properties.Resources.resources
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.csproj.GenerateResource.cache
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\bin\Debug\FinalNotificationApp.exe.config
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\bin\Debug\FinalNotificationApp.exe
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\bin\Debug\FinalNotificationApp.pdb
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.exe
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.pdb
+C:\Users\atbiw\source\repos\FinalNotificationApp\FinalNotificationApp\obj\Debug\FinalNotificationApp.ToastForms.resources
